@@ -1,5 +1,5 @@
 # Contributing to this repo
-:+1::tada: Thanks a lot for considering taking some time to contribute to this repo, I really appreciate it! :tada::+1:
+:+1::tada: Thank you a lot for considering taking some time to contribute to this repo, I really appreciate it! :tada::+1:
 
 The guidelines described in this file should be followed must of the times, but this are not hard rules. This is a
 small project after all, so feel free to propose changes and enhancements in a pull request.
