@@ -1,3 +1,10 @@
+Android | iOS     | Widnows
+------- | :-------: | -------:
+Medium App for android | Medium App for iOS | Medium App for Windows
+sfdahyjjvhvbdssjvkbdsfnvjksnsfvjdsanvcfsvc | jdsfjbkvbjasdfkbnefdsjberwqiruohwfhjdbsjdkvfdsjk | dsfihdsbjfiwfjdskdfsjfsfjklvfjvkldfsvjkb
+[Play Store](https://www.google.com)
+![](https://1000logos.net/wp-content/uploads/2016/10/Android-Logo-2008.png)
+
 + [ ] task 1
 + [ ] task 2
 * [ ] task 3
